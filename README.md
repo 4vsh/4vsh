@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aavash
 - 👀 I’m interested in techy thingss
-- 🌱 I’m currently learning Backend framework Called Django
 - 💞️ I’m looking to collaborate on new Django projects
 - 📫 How to reach me
     -Mail avsh.py@outlook.com
