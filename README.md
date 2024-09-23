@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aavash
-- 👀 I’m interested in learning new things, techy thingsss.
-- 💞️ I’m looking to collaborate on new Django projects
+- 👀 I know python programming language.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me
     -Mail avsh.py@outlook.com
 - 😄 Pronouns: he/him
